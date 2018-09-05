@@ -1,2 +1,2 @@
 # pykilitest
-##This is a readme. Im a programmer
+##This is a readme
